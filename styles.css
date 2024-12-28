@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin-left: 20px;
+}
+
+
+
+#cityInput{
+    font-size: 20px;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+   
+}
+#submit{
+    font-size:20px;
+    
+    background-color: aquamarine;
+
+    height: auto;
+    width: auto;
+    border-radius: 5px;
+    border-style: groove;
+    cursor:pointer;
+}
+
+#temperature, #city, #weather {
+    font-size: 30px;
+    font-style: bold;
+    margin-top: 10px;
+}
+
+#temperature{
+    margin-top: 40px;
+}
